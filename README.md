@@ -15,11 +15,18 @@ Project languages:
 ## 📦 Dependencies
 |  Name  |  Version  |
 |--------|-----------|
-|[Pandas](https://pypi.org/project/pandas/)|2.32|
+|[streamlit](https://pypi.org/project/streamlit/)|1.43.2|
+|[streamlit-option-menu](https://pypi.org/project/streamlit-option-menu/)|0.4.0|
+|[pandas](https://pypi.org/project/pandas/)|2.2.3|
+|[matplotlib](https://pypi.org/project/matplotlib/)|3.10.1|
+|[seaborn](https://pypi.org/project/seaborn/)|0.13.2|
+|[requests](https://pypi.org/project/requests/)|2.32.3|
+|[joblib](https://pypi.org/project/joblib/)|1.4.2|
+|[numpy](https://pypi.org/project/numpy/)|2.2.4|
+|[scikit-learn](https://pypi.org/project/scikit-learn/)|1.6.1|
 
 ## 🖥️ Requirements
 * Operating System (OS): Windows 10, Mac, Linux.
-* Code Editor / IDE: VSCode, PyCharm, etc.
 * Web Browser: Google Chrome, Microsoft Edge, Firefox, Safari.
 
 
