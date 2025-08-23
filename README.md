@@ -1,5 +1,7 @@
 # ⚡ Analysis and Prediction of Energy Consumption in Buildings Using Ridge, Lasso, and Elastic Net Regression Algorithms.
 
+![Alt Text](assets/thumbnail_linreg.png)
+
 ## 🔎 About
 This project focuses on the analysis and prediction of energy consumption in buildings using advanced regression techniques. By applying Ridge Regression, Lasso Regression, and Elastic Net Regression, it aims to identify key factors influencing energy usage and develop predictive models to improve efficiency and sustainability. This work was created for the Forum Group Discussion organized by Asisten MK Praktikum Unggulan DGX 2024/2025.
 
