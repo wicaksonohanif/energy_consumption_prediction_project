@@ -8,8 +8,15 @@ This project focuses on the Analysis and Prediction of Energy Consumption in Bui
 ## 📦 Dependencies
 
 ## 🖥️ Requirements
+* Operating System (OS): Windows 10, Mac, Linux.
+* Code Editor / IDE: VSCode, PyCharm, etc.
+* Web Browser: Google Chrome, Microsoft Edge, Firefox, Safari.
+
 
 ## 🥼 Author(s) / Contributor(s)
+* Wicaksono Hanif Supriyanto
+* Hans Naufal Granito
+* Faizah Rizki Auliawati
 
 ## 📚 Acknowlegments
 
