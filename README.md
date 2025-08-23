@@ -9,6 +9,9 @@ Project languages:
 * id
 * en
 
+Demo Link:
+https://npq5pa6mfmnweki5ecaq9n.streamlit.app/
+
 ## ✨ Features
 * Energy consumption prediction (kWh) based on building type, square footage, number of occupants, appliances used, average temperature, and day of week.
 * Prediction model selector (Lasso, Ridge, and Elasticnet).
