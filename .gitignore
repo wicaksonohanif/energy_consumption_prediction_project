@@ -1,0 +1,5 @@
+.venv
+dashboard/*.pkl
+dashboard/*.npy
+dashboard/*.joblib
+__pycache__
